@@ -1,0 +1,10 @@
+.letra-mediana { font-size: larger; }
+
+ul{
+
+    list-style-type: square;
+}
+
+ol{list-style-type:circle;}
+
+p {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
